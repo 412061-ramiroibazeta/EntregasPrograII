@@ -1,0 +1,50 @@
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.exe
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.deps.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.runtimeconfig.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.Properties.Resources.resources
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.GenerateResource.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.AssemblyInfo.cs
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.sourcelink.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.Up2Date
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\refint\Facturas.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.genruntimeconfig.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\ref\Facturas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.Properties.Resources.resources
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.GenerateResource.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.sourcelink.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\refint\Facturas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.exe
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.deps.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.runtimeconfig.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\Facturas.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.csproj.Up2Date
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\Facturas.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\Factura\Facturas\Facturas\obj\Debug\net8.0\ref\Facturas.dll
