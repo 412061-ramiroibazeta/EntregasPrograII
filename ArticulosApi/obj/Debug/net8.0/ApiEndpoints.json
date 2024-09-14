@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ArticulosApi.Controllers.ArticuloController",
+    "Method": "GetById",
+    "RelativePath": "api/Articulo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticulosApi.Controllers.ArticuloController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Articulo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticulosApi.Controllers.ArticuloController",
+    "Method": "GetAll",
+    "RelativePath": "api/Articulo/articulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticulosApi.Controllers.ArticuloController",
+    "Method": "Save",
+    "RelativePath": "api/Articulo/articulos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "ArticulosApi.Models.Articulo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
