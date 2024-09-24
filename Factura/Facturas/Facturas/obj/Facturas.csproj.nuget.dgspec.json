@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Facturas.csproj": {}
+    "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\Facturas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Facturas.csproj": {
+    "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\Facturas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Facturas.csproj",
+        "projectUniqueName": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\Facturas.csproj",
         "projectName": "Facturas",
-        "projectPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Facturas.csproj",
+        "projectPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\Facturas.csproj",
         "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\obj\\",
+        "outputPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\articulosapi\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\desktop\\entregasprograii\\articulosapi\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|solutionrelative:data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\articulosapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\desktop\\entregasprograii\\articulosapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|solutionrelative:controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\articulosapi\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\desktop\\entregasprograii\\articulosapi\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|solutionrelative:data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\articulosapi\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|c:\\users\\ramiro\\desktop\\entregasprograii\\articulosapi\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADD42D5-7467-4BE7-BB3B-3701CBC92ADA}|ArticulosApi.csproj|solutionrelative:services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ArticuloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Data\\ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Data\\ArticuloRepository.cs",
               "RelativeDocumentMoniker": "Data\\ArticuloRepository.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Data\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Data\\ArticuloRepository.cs",
               "RelativeToolTip": "Data\\ArticuloRepository.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAnwEQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,40 +53,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ArticuloService.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Services\\ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Services\\ArticuloService.cs",
               "RelativeDocumentMoniker": "Services\\ArticuloService.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Services\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Services\\ArticuloService.cs",
               "RelativeToolTip": "Services\\ArticuloService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:54:12.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:54:12.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ArticuloController.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Controllers\\ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Controllers\\ArticuloController.cs",
               "RelativeDocumentMoniker": "Controllers\\ArticuloController.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Controllers\\ArticuloController.cs",
               "RelativeToolTip": "Controllers\\ArticuloController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:51:57.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:51:57.656Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Data\\DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "Data\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\Data\\DataHelper.cs",
               "RelativeToolTip": "Data\\DataHelper.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAvwFsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:25:09.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T18:25:09.617Z"
             }
           ]
         }

@@ -1,0 +1,14 @@
+C:\Users\Ramiro\source\repos\FacturaBack\bin\Debug\net8.0\FacturaBack.deps.json
+C:\Users\Ramiro\source\repos\FacturaBack\bin\Debug\net8.0\FacturaBack.dll
+C:\Users\Ramiro\source\repos\FacturaBack\bin\Debug\net8.0\FacturaBack.pdb
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.csproj.AssemblyReference.cache
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.Properties.Resources.resources
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.csproj.GenerateResource.cache
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.AssemblyInfoInputs.cache
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.AssemblyInfo.cs
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.dll
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\refint\FacturaBack.dll
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\FacturaBack.pdb
+C:\Users\Ramiro\source\repos\FacturaBack\obj\Debug\net8.0\ref\FacturaBack.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Facturas
-build_property.ProjectDir = C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\PROGRAMACION II\GIT - PROGRA\ProgII\PRACTICAS\Factura\Facturas\Facturas\
+build_property.ProjectDir = C:\Users\Ramiro\Desktop\EntregasPrograII\Factura\Facturas\Facturas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

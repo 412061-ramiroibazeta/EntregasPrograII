@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xFR0JnMk2ns=",
+  "dgSpecHash": "55dErYi/Vwg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Facturas.csproj",
+  "projectFilePath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\Factura\\Facturas\\Facturas\\Facturas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramiro\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Ramiro\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -893,11 +893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\ArticulosApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\ArticulosApi.csproj",
       "projectName": "ArticulosApi",
-      "projectPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\ArticulosApi.csproj",
+      "projectPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\ArticulosApi.csproj",
       "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ArticulosApi\\obj\\",
+      "outputPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ArticulosApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
