@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServiciosBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F36603-90FC-46A5-9544-9140955C41D7}|..\\ServicioAPI\\ServicioAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\servicioapi\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F36603-90FC-46A5-9544-9140955C41D7}|..\\ServicioAPI\\ServicioAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\servicioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F36603-90FC-46A5-9544-9140955C41D7}|..\\ServicioAPI\\ServicioAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\servicioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB8A92B-3B1F-42B8-AC8D-ECB7B5CB141B}|ServiciosBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\serviciosback\\data\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB8A92B-3B1F-42B8-AC8D-ECB7B5CB141B}|ServiciosBack.csproj|solutionrelative:data\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB8A92B-3B1F-42B8-AC8D-ECB7B5CB141B}|ServiciosBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\serviciosback\\data\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB8A92B-3B1F-42B8-AC8D-ECB7B5CB141B}|ServiciosBack.csproj|solutionrelative:data\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "..\\ServicioAPI\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "..\\ServicioAPI\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:42:21.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ServicioAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\appsettings.json",
+              "RelativeToolTip": "..\\ServicioAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T02:41:11.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServicioAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServicioAPI\\Program.cs",
+              "RelativeToolTip": "..\\ServicioAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:39:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServiciosBack\\Data\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServiciosBack\\Data\\Services\\IServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:38:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServiciosBack\\Data\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\ServiciosBack\\Data\\Services\\ServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\ServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:37:59.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
