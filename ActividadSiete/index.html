@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- estilos bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+
+    <!-- iconos -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" href="/css/style.css">
+
+    <title>Peluqueria</title>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <div class="container-fluid">
+        <div class="row">
+
+            <!-- barra izquierda -->
+            <div class="col-md-2 col-lg-2 sidebar d-flex flex-column align-items-center bg-primary text-white p-4">
+                <div class="text-center">
+                    <img src="/images/icono2.png" class="img-fluid" style="width: 50px; height: 50px;" alt="icono">
+                    <h5 class="mt-2">Usuario</h5>
+                    <p>Ramiro Ibazeta</p>
+                </div>
+                <div class="mt-4">
+
+                    <div class="list-group text-center">
+                        <button onclick="mostrarSeccion('inicio')" type="button" class="list-group-item list-group-item-action">Inicio</button>
+                        <button onclick="mostrarSeccion('consultar')" type="button" class="list-group-item list-group-item-action">Consultar turnos</button>
+                        <button onclick="mostrarSeccion('nuevo')" type="button" class="list-group-item list-group-item-action">Nuevo turno</button>                        
+                    </div>
+                </div>
+                <div class="mt-4">
+                    <button class="btn btn-link text-white" type="button">
+                        <i class="bi bi-plus"></i></button>
+                </div>
+            </div>
+
+            <div class="col-md-10 col-lg-10 pt-4">
+                
+                <div class="col-md-8 col-lg-8 pt-4">
+                
+                    <section id="inicio" class="section">
+                        <h1 class="ps-4">INICIO</h1>
+                        <table class="table bg-dark text-white">
+                            <thead><tr><th>Cliente</th><th>Turnos</th></tr></thead>
+                            <tbody id="tablaInicio"></tbody>
+                        </table>
+                    </section>
+                    
+                    <section id="consultar" class="section d-none">
+                        <h1 class="ps-4">TURNOS</h1>
+                        <table class="table bg-dark text-white">
+                            <thead><tr><th>ID</th><th>Fecha</th><th>Hora</th><th>Cliente</th></tr></thead>
+                            <tbody id="tablaTurnos"></tbody>
+                        </table>
+                    </section>
+
+                    <section id="nuevo" class="section d-none">
+                        <h1 class="p-3">NUEVO TURNO</h1>
+                        <form onsubmit="agregarTurno(event)">
+                            <div class="mb-2">
+                                <label>Fecha del turno:</label>
+                                <input type="date" id="fecha" class="form-control" required>
+                            </div>
+                            <div class="mb-2">
+                                <label>Hora del turno:</label>
+                                <input type="time" id="hora" class="form-control" required>
+                            </div>
+                            <div class="mb-2">
+                                <label>Cliente:</label>
+                                <select id="elegirCliente" class="form-select" aria-label="Default select example">
+                                    <option selected>Elegir cliente</option>
+                                    <option value="1">Ramiro Ibazeta</option>
+                                    <option value="2">Lionel Messi</option>
+                                    <option value="3">El Maligno</option>
+                                    <option value="4">Franco Colapinto</option>
+                                  </select>
+                            </div>
+                            <button type="submit" class="btn btn-success">Agregar Turno</button>
+                            <button type="reset" class="btn btn-danger">Cancelar</button>
+                        </form>
+                    </section>
+                    
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="bg-primary text-white text-center p-3 mt-auto">
+        <p>@2024 [Pie de pagina]</p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="/js/script.js"></script>
+</body>
+
+</html>
+
+            <!-- cartas
+            <div class="col-md-10 col-lg-10 pt-4">
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 d-flex flex-column">
+                            <img src="images/peluqueria.png" class="card-img-top" alt="Peluqueria">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Sacar turno</h5>
+                                <p class="card-text">Si queres obtener tu turno para cortar tu pelo, teñirte,
+                                    estilizarte y mucho mas.</p>
+                                <a href="#" class="btn btn-primary mt-auto">Click aca</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 d-flex flex-column">
+                            <img src="images/misturnos.jpg" class="card-img-top" alt="misTurnos">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Mis turnos</h5>
+                                <p class="card-text">Si queres ver tus turnos y su estado.</p>
+                                <a href="#" class="btn btn-primary mt-auto">Turnos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 d-flex flex-column">
+                            <img src="/images/turno.jpg" class="card-img-top" alt="Editar">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Editar turno</h5>
+                                <p class="card-text">Si por alguna razon queres cancelar, editar o cambiar la fecha de
+                                    tu turno.</p>
+                                <a href="#" class="btn btn-primary mt-auto">Click aca</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
