@@ -1,0 +1,60 @@
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.deps.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfo.cs
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.sourcelink.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\refint\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ref\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.runtimeconfig.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.genruntimeconfig.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.deps.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.runtimeconfig.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\bin\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfo.cs
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.sourcelink.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\refint\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ServicioBack.genruntimeconfig.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\EF PROYECTOS\ServicioEntrega4\ServicioBack\obj\Debug\net8.0\ref\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.deps.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.runtimeconfig.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfo.cs
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.sourcelink.json
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\refint\ServicioBack.dll
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.genruntimeconfig.cache
+C:\Users\Ramiro\Desktop\EntregasPrograII\Entrega 5\ServicioBack\obj\Debug\net8.0\ref\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.deps.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.runtimeconfig.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\bin\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.AssemblyInfo.cs
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.sourcelink.json
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\refint\ServicioBack.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ServicioBack.genruntimeconfig.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\SEGUNDO CUATRIMESTRE\ProgII\PRACTICO\PRACTICAS\DISEÑO WEB\ServiciosWeb\Entrega 5\ServicioBack\obj\Debug\net8.0\ref\ServicioBack.dll

@@ -1,0 +1,13 @@
+footer {
+    height: 5vh;
+}
+
+.sidebar {
+    min-height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.section.d-none {
+    display: none;
+}

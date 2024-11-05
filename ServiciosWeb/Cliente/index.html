@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turnos y Servicios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <div class="container-fluid">
+        <div class="row">
+
+            <nav class="col-md-2 col-lg-2 sidebar text-white p-4 bg-primary">
+                <button class="navbar-toggler bg-white mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu">
+                    <span class="navbar-toggler-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M3 12.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5z"/>
+                    </svg></span>
+                </button>
+                <div class="collapse navbar-collapse bg-primary" id="sidebarMenu">
+                    <div class="text-center my-3">
+                        <img src="images/icono2.png" class="img-fluid" style="width: 50px; height: 50px;" alt="icono">
+                        <h5 class="mt-2">Usuario</h5>
+                        <p>Ramiro Ibazeta</p>
+                    </div>
+                    <div class="list-group text-center">
+                        <button onclick="mostrarSeccion('inicio')" class="list-group-item list-group-item-action">Inicio</button>
+                        <button onclick="mostrarSeccion('consultar')" class="list-group-item list-group-item-action">Consultar Servicios</button>
+                        <button onclick="mostrarSeccion('nuevo')" class="list-group-item list-group-item-action">Cargar Servicio</button>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="col-md-10 col-lg-10 pt-4">
+                <section id="inicio" class="section">
+                    <h1 class="ps-4">INICIO</h1>
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <div class="card h-100">
+                                <img src="images/peluqueria.png" class="card-img-top" alt="Peluqueria">
+                                <div class="card-body">
+                                    <h5 class="card-title">Sacar Turno</h5>
+                                    <p class="card-text">Obten tu turno para cortar tu pelo, teñirte y más.</p>
+                                    <a href="#" class="btn btn-primary">Click aquí</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card h-100">
+                                <img src="images/misturnos.jpg" class="card-img-top" alt="Mis Turnos">
+                                <div class="card-body">
+                                    <h5 class="card-title">Mis Turnos</h5>
+                                    <p class="card-text">Consulta tus turnos y su estado.</p>
+                                    <a href="#" class="btn btn-primary">Turnos</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card h-100">
+                                <img src="images/turno.jpg" class="card-img-top" alt="Editar">
+                                <div class="card-body">
+                                    <h5 class="card-title">Editar Turno</h5>
+                                    <p class="card-text">Edita, cancela o reprograma tu turno.</p>
+                                    <a href="#" class="btn btn-primary">Click aquí</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="consultar" class="section d-none">
+                    <h1 class="ps-4">Servicios</h1>
+                    <table class="table bg-dark text-white">
+                        <thead>
+                            <tr><th>#</th><th>Nombre</th><th>Costo</th><th>En Promoción</th></tr>
+                        </thead>
+                        <tbody id="tablaServicios"></tbody>
+                    </table>
+                </section>
+
+                <section id="nuevo" class="section d-none">
+                    <h1 class="p-3">Cargar Turno</h1>
+                    <form onsubmit="cargarServicio(event)">
+                        <div class="mb-2">
+                            <label for="nombreServicio">Nombre del Servicio:</label>
+                            <input type="text" id="nombreServicio" class="form-control" required>
+                        </div>
+                        <div class="mb-2">
+                            <label for="costoServicio">Costo del Servicio:</label>
+                            <input type="number" id="costoServicio" class="form-control" required>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="enPromocion">
+                            <label class="form-check-label" for="enPromocion">En Promoción</label>
+                        </div>
+                        <button type="submit" class="btn btn-success mt-3">Agregar Servicio</button>
+                    </form>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-primary text-white text-center p-3 mt-auto">
+        <p>@2024 [Pie de página]</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+</html>
